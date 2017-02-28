@@ -6,7 +6,7 @@ Trivially ported from the npm package ip-regex
 ## Install
 
 ```
-$ npm install --save ip-regex
+copy over to app/lib
 ```
 
 
@@ -59,5 +59,5 @@ Only match an exact string. Useful with `RegExp#test()` to check if a string is 
 
 
 ## License
-MIT © [Andrew McElroy]
+MIT © [Andrew McElroy]   
 MIT © [Sindre Sorhus](https://sindresorhus.com)
